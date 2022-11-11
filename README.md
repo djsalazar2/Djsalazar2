@@ -26,13 +26,15 @@ OBJETIVO ESPECIFICO
 
 ![image](https://user-images.githubusercontent.com/116816731/201409344-bdb84f32-86c1-483a-9ec7-47018557959d.png)
 
-![image](https://user-images.githubusercontent.com/116816731/201409804-616d3d17-c7b0-49ea-824c-31709b70e7c1.png)
+![image](https://user-images.githubusercontent.com/116816731/201411223-43b5d638-19bd-408a-9ed5-a22a771d416a.png)
+
 
 CAPITULO 2: VOLTAJE, CORRIENTE Y RESISTENCIA
 
 ![image](https://user-images.githubusercontent.com/116816731/201410360-b642910c-93ab-44eb-92da-4f346c511ab3.png)
 
-![image](https://user-images.githubusercontent.com/116816731/201410967-249a7ccd-740b-4fc8-9a34-c4f7942f2111.png)
+![image](https://user-images.githubusercontent.com/116816731/201411306-b6d680e6-0750-470f-8ffe-21faee2db060.png)
+
 
 ![image](https://user-images.githubusercontent.com/116816731/201411081-353061d8-ad9d-4545-b694-2d11d55cad72.png)
 
