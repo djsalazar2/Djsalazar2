@@ -28,8 +28,6 @@ OBJETIVO ESPECIFICO
 
 ![image](https://user-images.githubusercontent.com/116816731/201409344-bdb84f32-86c1-483a-9ec7-47018557959d.png)
 
-![image](https://user-images.githubusercontent.com/116816731/201411223-43b5d638-19bd-408a-9ed5-a22a771d416a.png)
-
 
 CAPITULO 2: VOLTAJE, CORRIENTE Y RESISTENCIA
 
