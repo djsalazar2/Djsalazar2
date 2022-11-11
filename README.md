@@ -1,16 +1,36 @@
-### Hi there 👋
+INFORME-TAREA-1
 
-<!--
-**djsalazar2/Djsalazar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nombre: Donovan Jhosue Salazar Lopez 
 
-Here are some ideas to get you started:
+1. OBJETIVOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OBJETIVO GENERAL 
+
+Comprender los conceptos basicos 
+
+OBJETIVO GENERAL
+
+Comprender los conceptos básicos sobre los circuitos básicos y sus componentes 
+
+OBJETIVO ESPECIFICO
+
+•	Aprender la representación correcta en notación científica
+
+•	Conocer las representaciones de las medidas 
+
+•	Comprender como saber representar un diagrama de corriente
+
+2 MARCO TEORICO
+
+	CAPITULO 1: CANTIDADES Y UNIDADES
+
+![image](https://user-images.githubusercontent.com/116816731/201409344-bdb84f32-86c1-483a-9ec7-47018557959d.png)
+
+![image](https://user-images.githubusercontent.com/116816731/201409804-616d3d17-c7b0-49ea-824c-31709b70e7c1.png)
+
+CAPITULO 2: VOLTAJE, CORRIENTE Y RESISTENCIA
+
+![image](https://user-images.githubusercontent.com/116816731/201410360-b642910c-93ab-44eb-92da-4f346c511ab3.png)
+
+
+
